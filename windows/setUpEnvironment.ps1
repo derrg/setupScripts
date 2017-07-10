@@ -2,7 +2,7 @@
 # Author: Ken Van Dalsum <kenvandalsum@gmail.com>
 # Last Modified: 7/10/17
 
-# Set the execution policy for the machine to Unrestricted
+# Set the execution policy for the machine to RemoteSigned
 Set-ExecutionPolicy RemoteSigned
 
 
